@@ -6,7 +6,6 @@ EOS
 OUTPUT1 = <<~"EOS"
   2
 EOS
-
 # 1 以上 8 以下の整数の中で約数を 4 個持つ数は 6, 8 の 2 つです。
 
 def get_divisor(num)
